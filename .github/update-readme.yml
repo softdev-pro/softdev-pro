@@ -1,0 +1,30 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour
+  workflow_dispatch: # Allows you to manually trigger the workflow
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Fetch latest repos
+        run: |
+          curl -s "https://api.github.com/users/nbsoftdev/repos?sort=updated" | \
+          jq -r '.[] | "- [\(.name)](https://github.com/nbsoftdev/\(.name)) - \(.description)"' > latest_repos.md
+
+      - name: Update README
+        run: |
+          echo "# Latest Repositories" > README.md
+          cat latest_repos.md >> README.md
+          git config --local user.email "info.nbsoftdev@gmail.com"
+          git config --local user.name "nbsoftdev"
+          git add README.md
+          git commit -m "Update README with latest repositories"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
