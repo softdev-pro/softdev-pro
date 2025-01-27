@@ -24,7 +24,7 @@
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nbsoftdev&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="nbsoftdev" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=softdev-pro&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="nbsoftdev" style="padding-right:20px;" />
 </p>
 
 ---
@@ -61,11 +61,11 @@
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
-  <a href="https://github.com/nbsoftdev">
+  <a href="https://github.com/softdev-pro">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=nbsoftdev&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=nbsoftdev&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=nbsoftdev&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=softdev-pro&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=softdev-pro&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=softdev-pro&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
     </picture>
   </a>
 </p>
@@ -80,14 +80,14 @@
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/nbsoftdev">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=nbsoftdev&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs_merged_percentage,prs,issues&show=reviews,prs_merged,contribs" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=softdev-pro&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs_merged_percentage,prs,issues&show=reviews,prs_merged,contribs" alt="GitHub Stats" />
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/nbsoftdev">
+        <a href="https://github.com/softdev-pro">
           <img align="center" src="https://streak-stats.demolab.com?user=nbsoftdev&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
         </a>
       </p>
@@ -97,7 +97,7 @@
     <td width="50%">
       <h3 align="center"><strong>Mᴏꜱᴛ Uꜱᴇᴅ Lᴀɴɢᴜᴀɢᴇꜱ</strong></h3>
       <p align="center">
-        <a href="https://github.com/nbsoftdev/">
+        <a href="https://github.com/softdev-pro/">
            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbsoftdev&layout=compact&hide_progress=true&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="NBSoftDev" /> 
         </a>
       </p>
@@ -105,7 +105,7 @@
     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
-        <a href="https://github.com/nbsoftdev">
+        <a href="https://github.com/softdev-pro">
           <img align="center" src="https://github-contributor-stats.vercel.app/api?username=nbsoftdev&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
         </a>
       </p>
@@ -117,7 +117,7 @@
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nbsoftdev&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=softdev-pro&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
 
 ---
@@ -147,13 +147,13 @@
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
 <div id="badges">
-  <a href="https://www.facebook.com/nbsoftdev">
+  <a href="https://www.facebook.com/softdevpro.bd">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="https://www.youtube.com/@NBSOFTDEV">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://github.com/nbsoftdev">
+  <a href="https://github.com/softdev-pro">
     <img src="https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=twitgithubter&logoColor=white" alt="Github Badge"/>
   </a>
 </div>
